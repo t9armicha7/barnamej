@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/barnamej/static/css/main.065e58c1.css",
+    "main.js": "/barnamej/static/js/main.27628f6a.js",
+    "static/js/787.9151721b.chunk.js": "/barnamej/static/js/787.9151721b.chunk.js",
+    "static/media/back.gif": "/barnamej/static/media/back.8255a277968123c6f9a5.gif",
+    "index.html": "/barnamej/index.html",
+    "main.065e58c1.css.map": "/barnamej/static/css/main.065e58c1.css.map",
+    "main.27628f6a.js.map": "/barnamej/static/js/main.27628f6a.js.map",
+    "787.9151721b.chunk.js.map": "/barnamej/static/js/787.9151721b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.065e58c1.css",
+    "static/js/main.27628f6a.js"
+  ]
+}
